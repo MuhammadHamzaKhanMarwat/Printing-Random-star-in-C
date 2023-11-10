@@ -45,7 +45,7 @@ int main()
                 {
                     printf(" ");
                 }            
-            }
+            }// trying commit
             printf("\n");
         }
          sleep(1); // Freezes the program for 1 sec before before printing another set of stars
