@@ -50,7 +50,8 @@ int main()
         }
          sleep(1); // Freezes the program for 1 sec before before printing another set of stars
 		 system("cls"); // Removing the previous set of stars  
-         //HOO
+         //HII
+         //ANOTHER ONE
     } 
 
 }
